@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @JeongB-L
-- 👀 I’m interested in working with java, c, python, and all other frontend stuff and aiming at either develop a game or enhance myself in the field of AI.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I am currently working for Tunib, which is a start-up company under NAVER in South Korea.
 
 <!---
 JeongB-L/JeongB-L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
