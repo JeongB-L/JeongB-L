@@ -4,7 +4,7 @@ Followings are the links to the projects I was a part of physically/virtually th
 1. ShareCare: https://github.com/ananya-singhh/project5
 2. MaskMandator: https://devpost.com/software/mask-mandator
 3. Syllabus Stripper: https://devpost.com/software/syllabus-stripper
-4. Stream Sniper: akhorana14/stream-sniper
+4. Stream Sniper: https://devpost.com/software/stream-sniper
 
 
 <!---
