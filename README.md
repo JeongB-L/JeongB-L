@@ -1,4 +1,4 @@
-I am currently working for Tunib, which is a start-up company under NAVER in South Korea. If you are interested in skill and works, please take a look at the github organizations I belong to.
+I am currently seeking for internship oportunities. If you are interested in my skill and works, please take a look at the github organizations I belong to.
 
 Followings are the links to the projects I was a part of physically/virtually that do not vividly appear on my github.
 1. ShareCare: https://github.com/ananya-singhh/project5
