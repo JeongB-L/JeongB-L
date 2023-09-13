@@ -6,7 +6,7 @@ Followings are the links to the projects I was a part of physically/virtually th
 3. Syllabus Stripper: https://devpost.com/software/syllabus-stripper
 4. Stream Sniper: https://devpost.com/software/stream-sniper
 
-
+Also, here is my linkedin if you are interested: https://www.linkedin.com/in/jeongbinlee
 <!---
 JeongB-L/JeongB-L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
