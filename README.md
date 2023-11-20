@@ -6,6 +6,11 @@ Followings are the links to the projects I was a part of physically/virtually th
 3. Syllabus Stripper: https://devpost.com/software/syllabus-stripper
 4. Stream Sniper: https://devpost.com/software/stream-sniper
 
+If you are interested in my classworks, please click the following. Some will be opened and some will not be publicized due to restrictions.
+1. https://github.com/JeongB-L/cs251work
+2. https://github.com/JeongB-L/cs250_works
+3. https://github.com/JeongB-L/flask_development
+
 Also, here is my linkedin if you are interested: https://www.linkedin.com/in/jeongbinlee
 <!---
 JeongB-L/JeongB-L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
