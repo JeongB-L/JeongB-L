@@ -9,7 +9,7 @@ Followings are the links to the projects I was a part of physically/virtually th
 If you are interested in my projects done along the academic courses at Purdue, please click the following. Some will be opened and some will not be publicized due to restrictions.
 1. https://github.com/JeongB-L/cs251work
 2. https://github.com/JeongB-L/cs250_works
-3. https://github.com/JeongB-L/flask_development
+3. Graph problem: https://github.com/JeongB-L/cs251work/tree/main/project4_graph
 4. Compiler for SimpleC: https://github.com/JeongB-L/cs250_works/tree/main/project5_compiler
 
 Also, here is my linkedin if you are interested: https://www.linkedin.com/in/jeongbinlee
