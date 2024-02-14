@@ -1,3 +1,5 @@
+Hi! Welcome to my github profile.
+
 I am currently seeking for internship oportunities. If you are interested in my skill and works, please take a look at the github organizations I belong to.
 
 Followings are the links to the projects I was a part of physically/virtually that do not vividly appear on my github.
