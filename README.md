@@ -1,4 +1,4 @@
-Hi! My name is Jeongbin Lee, a Computer Science major at Purdue University.
+Hi! My name is Jeongbin Lee, a Computer Science major at Purdue University, graduating in May 2026.
 
 I am currently seeking for internship oportunities. If you are further interested in my skills and works, please take a look at the github organizations and my linkedin!
 
