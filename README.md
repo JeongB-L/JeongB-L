@@ -2,7 +2,7 @@ Hi! My name is Jeongbin Lee, a Computer Science major at Purdue University, grad
 
 I am currently seeking for internship oportunities. If you are further interested in my skills and works, please take a look at the github organizations and my linkedin!
 
-Followings are the links to the projects I was a part of and I am really pround of them:
+Followings are the links to the projects I was a part of and I am really pround of them (though they are not EVERYTHING I have done before. some works from internships cannot be posted on github at all!):
 1. BoilerDate: https://github.com/youngjun-yoo16/BoilerDate
 2. ShareCare: https://github.com/ananya-singhh/project5
 3. MaskMandator: https://devpost.com/software/mask-mandator
