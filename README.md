@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Jeongbin Lee, a developer, a computer science student from <b>Purdue University, West Lafayette</b> (class of 2024 ➔ class of 2026) </p>
-<p>If you would like to see my professional career, please visit my <a href="https://www.linkedin.com/in/jeongbinlee" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>!</p>
+<p>If you would like to see my professional career, please visit my <a href="https://www.linkedin.com/in/jeongbinlee" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 <h3>Things I worked with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -59,16 +59,34 @@
 
 ## 🚀 Projects  
 
-### **Mask Mandator**  
-*Python, Flask, Google AutoML, IBM Studio* | *October 2020*  
+### **Turfgrass Pathology PDMR Chatbot**
+*No link available due to NDA*
+- As part of Purdue Data Mine Corporate program, I led development of Python console application to extract, clean, sort data from Turfgrass Pathology research papers to support AI chatbot development., working with MathWorks and William H. Daniel Turfgrass Research and Diagnostic Center.
+
+### **BoilerDate**  
+*https://github.com/youngjun-yoo16/BoilerDate*  
 - Awarded 1st Place at HackRPI 2020 (Google Cloud COVID-19) and 2nd Place by FCA.  
 - Developed a mask-enforcing web application with 99.37% accuracy using Google AutoML.  
 
-### **Syllabus Stripper**  
-*Python, Tesseract OCR, JavaScript* | *September 2020*  
+### **ShareCare**  
+*https://github.com/ananya-singhh/project5*  
 - Awarded 2nd Place at Purdue Hello World Hackathon 2020.  
-- Created a web application that extracts dates from syllabi and generates .ics files.  
+- Created a web application that extracts dates from syllabi and generates .ics files.
 
+### **MaskMandator**
+*https://devpost.com/software/mask-mandator*
+
+### **Syllabus Stripper**
+*https://devpost.com/software/syllabus-stripper*
+
+### **Stream Sniper**
+*https://devpost.com/software/stream-sniper*
+
+### **Algorithm implementations and more!**
+*https://github.com/JeongB-L/cs251work*
+
+### **Shell implementation, Compiler for SimpleC, and more!**
+*https://github.com/JeongB-L/cs250_works*
 ---
 
 ## 🏆 Achievements  
