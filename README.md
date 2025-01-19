@@ -48,10 +48,18 @@
 
 ---
 
-## 📜 About Me
-- 🎓 **Education**: Computer Science @ Purdue University (Class of 2026)
-- 🌟 **Interests**: Backend Development, Data Engineering, Machine Learning
-- 🌐 [LinkedIn](https://www.linkedin.com/in/jeongbinlee/) | [GitHub](https://github.com/JeongB-L)
+## 🗂️ Professional Experience  
+
+### **Software Engineering Intern**  
+**FPT Software** | *July 2024 – August 2024*  
+- Designed and implemented a scalable .NET Core application for processing data from millions of wind turbines across Europe.  
+- Automated workflows using Azure Batch and Bash scripts, reducing data processing time by 300%.  
+- Refactored the codebase to adopt the repository pattern, ensuring modularity and maintainability.  
+
+### **Research Assistant**  
+**Purdue XINU Lab** | *May 2023 – Present*  
+- Enhanced XINU operating system by developing and testing advanced scheduling algorithms.  
+- Debugged and maintained low-level system code, improving system performance and reliability.  
 
 ---
 
