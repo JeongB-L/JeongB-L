@@ -46,25 +46,72 @@
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
+
+---
+
+## 🎓 Education  
+
+### **Purdue University**  
+*Bachelor of Science in Computer Science* | *Expected May 2026*  
+- **GPA**: 3.78/4.0  
+- **Relevant Coursework**: Software Engineering, Object-Oriented Programming, Data Structures and Algorithms, Information Systems, Analysis of Algorithms, Computer Systems, Computer Architecture, Operating Systems, Computer Networks  
+
 ---
 
 ## 🗂️ Professional Experience  
 
 ### **Software Engineering Intern**  
 **FPT Software** | *July 2024 – August 2024*  
-- Designed and implemented a scalable .NET Core application for processing data from millions of wind turbines across Europe.  
-- Automated workflows using Azure Batch and Bash scripts, reducing data processing time by 300%.  
-- Refactored the codebase to adopt the repository pattern, ensuring modularity and maintainability.  
+- Developed a scalable .NET Core application to process large datasets from millions of wind turbines in Europe stored in Azure Data Lake.  
+- Optimized query performance, reducing data processing time by 300%, and ensured cost-efficiency within Azure free credit limits.  
+- Automated workflows using Bash scripts and Azure Batch Job Scheduler.  
 
-### **Research Assistant**  
-**Purdue XINU Lab** | *May 2023 – Present*  
-- Enhanced XINU operating system by developing and testing advanced scheduling algorithms.  
-- Debugged and maintained low-level system code, improving system performance and reliability.  
+### **Student Developer / Team Lead**  
+**Purdue Data Mine × MathWorks × Turfgrass Research Center** | *August 2024 – December 2024*  
+- Led the development of a Python application to process data from research papers for AI chatbot training.  
+- Processed 1,500+ documents per hour, exceeding client expectations.  
+- Managed team tasks, led meetings, and presented progress to stakeholders.  
+
+### **Student Developer**  
+**Purdue University** | *January 2024 – May 2024*  
+- Built a full-stack web application for STEM students dating using the Agile SCRUM framework.  
+- Implemented authentication features, a matching algorithm, and premium user functionality.  
+- Conducted testing and deployed the application for a pilot run among Purdue students.  
+
+### **Undergraduate Teaching Assistant**  
+**Purdue University** | *January 2024 – Present*  
+- Conducted live coding sessions and graded assignments for Programming in C and Systems Programming courses.  
+- Resolved student inquiries and proctored exams.  
+
+### **Cloud Security Engineer Intern / Team Lead**  
+**ShinwooTNS** | *October 2022 – March 2023*  
+- Administered Cato SASE for over 5,000 global users and evaluated competing cloud security solutions.  
+- Led a team of interns, ensuring timely delivery of tasks and solutions.  
 
 ---
 
+## 🚀 Projects  
 
+### **Mask Mandator**  
+*Python, Flask, Google AutoML, IBM Studio* | *October 2020*  
+- Awarded 1st Place at HackRPI 2020 (Google Cloud COVID-19) and 2nd Place by FCA.  
+- Developed a mask-enforcing web application with 99.37% accuracy using Google AutoML.  
 
-<h3>Where to find me</h3>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
+### **Syllabus Stripper**  
+*Python, Tesseract OCR, JavaScript* | *September 2020*  
+- Awarded 2nd Place at Purdue Hello World Hackathon 2020.  
+- Created a web application that extracts dates from syllabi and generates .ics files.  
+
+---
+
+## 🏆 Achievements  
+
+- 1st Place, HackRPI Fall 2020 - Google Cloud COVID-19 Challenge  
+- 2nd Place, Purdue Hello World Hackathon 2020  
+
+---
+
+## 📬 Contact  
+
+<p><a href="https://github.com/JeongB-L" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jeongbinlee" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:jblee1152@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a></p>
+
