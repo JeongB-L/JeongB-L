@@ -2,7 +2,8 @@
 
 
 <p>Welcome to my page! </br> I'm Jeongbin Lee, a developer, a computer science student from <b>Purdue University, West Lafayette</b> (class of 2024 ➔ class of 2026) </p>
-<h3>Things I code with</h3>
+<p>If you would like to see my professional career, please visit my <a href="https://www.linkedin.com/in/jeongbinlee" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>!</p>
+<h3>Things I worked with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
@@ -55,49 +56,6 @@
 *Bachelor of Science in Computer Science* | *Expected May 2026*  
 - **GPA**: 3.78/4.0  
 - **Relevant Coursework**: Software Engineering, Object-Oriented Programming, Data Structures and Algorithms, Information Systems, Analysis of Algorithms, Computer Systems, Computer Architecture, Operating Systems, Computer Networks  
-
----
-
-## 🗂️ Professional Experience  
-
-### **Software Engineering Intern**  
-**FPT Software** | *July 2024 – August 2024*  
-- Developed a .NET Core console application to process large datasets from millions of wind turbines across Europe
- stored in Azure Data Lake, and wrote bash script for integration/automation with Azure Batch Job Scheduler.
-- Analyzed and optimized data schema and query performance, reducing data processing time by 300%.
-- Integrated and optimized client-provided C# functions for generating Snowflake IDs into a line of SQL query.
-- Optimized cloud resource utilization to complete full development and execution within $200 Azure free credit. 
-
-### **Student Developer / Team Lead**  
-**Purdue Data Mine × MathWorks × Turfgrass Research Center** | *August 2024 – December 2024*  
-- Led development of Python console application to extract, clean, sort data from Turfgrass Pathology research
- papers, providing structured data for a vector database used in AI chatbot training.
-- Designed project, implemented PDF parser, designed data schema, and optimized data pipeline.
-- Achieved end-to-end processing of 1,500 documents (up to 20 pages each) per hour, exceeding client expectations.
-- Led weekly meetings with the team, managed team workload, and led presentations to professors and researchers.
-
-### **Student Developer**  
-**Purdue University** | *January 2024 – May 2024*  
-- Developed a full stack web application tailored for STEM students dating using Agile SCRUM framework. 
-- Designed and implemented database schemas and CRUD operations for user photos and resumes.  
-- Implemented 2FA authentication feature, user matching algorithm, user profile customization feature, premium
- user visibility enhancement features, and completed documentation.
-- Conducted manual and user acceptance testing; deployed app to selected Purdue students for pilot run.
-
-### **Undergraduate Teaching Assistant**  
-**Purdue University** | *January 2024 – Present*  
-- Conducted lab sessions for Programming in C and Systems Programming to for 100+ students through live coding
- demonstrations in collaboration with professors and graduate teaching assistants.
-- Graded coding standards, proctored exams, monitored forums, and resolved student inquiries.
-
-### **Cloud Security Engineer Intern / Team Lead**  
-**ShinwooTNS** | *October 2022 – March 2023*  
-- Administered Cato SASE (Secure Access Service Edge) for a global user base of 5,000+.
-- Performed technical analysis to evaluate competing cloud security solution vendors and documented results.
-- Assisted in PoC, deployed solution on-site and in Cloud, tested compatibility with customer infrastructure.
-- Led team of 3–5 interns, assigned tasks, conducted daily progress meetings, and ensured deliverables.
-
----
 
 ## 🚀 Projects  
 
