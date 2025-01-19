@@ -65,13 +65,9 @@
 
 ### **BoilerDate**  
 *https://github.com/youngjun-yoo16/BoilerDate*  
-- Awarded 1st Place at HackRPI 2020 (Google Cloud COVID-19) and 2nd Place by FCA.  
-- Developed a mask-enforcing web application with 99.37% accuracy using Google AutoML.  
 
 ### **ShareCare**  
 *https://github.com/ananya-singhh/project5*  
-- Awarded 2nd Place at Purdue Hello World Hackathon 2020.  
-- Created a web application that extracts dates from syllabi and generates .ics files.
 
 ### **MaskMandator**
 *https://devpost.com/software/mask-mandator*
