@@ -62,31 +62,40 @@
 
 ### **Software Engineering Intern**  
 **FPT Software** | *July 2024 – August 2024*  
-- Developed a scalable .NET Core application to process large datasets from millions of wind turbines in Europe stored in Azure Data Lake.  
-- Optimized query performance, reducing data processing time by 300%, and ensured cost-efficiency within Azure free credit limits.  
-- Automated workflows using Bash scripts and Azure Batch Job Scheduler.  
+- Developed a .NET Core console application to process large datasets from millions of wind turbines across Europe
+ stored in Azure Data Lake, and wrote bash script for integration/automation with Azure Batch Job Scheduler.
+- Analyzed and optimized data schema and query performance, reducing data processing time by 300%.
+- Integrated and optimized client-provided C# functions for generating Snowflake IDs into a line of SQL query.
+- Optimized cloud resource utilization to complete full development and execution within $200 Azure free credit. 
 
 ### **Student Developer / Team Lead**  
 **Purdue Data Mine × MathWorks × Turfgrass Research Center** | *August 2024 – December 2024*  
-- Led the development of a Python application to process data from research papers for AI chatbot training.  
-- Processed 1,500+ documents per hour, exceeding client expectations.  
-- Managed team tasks, led meetings, and presented progress to stakeholders.  
+- Led development of Python console application to extract, clean, sort data from Turfgrass Pathology research
+ papers, providing structured data for a vector database used in AI chatbot training.
+- Designed project, implemented PDF parser, designed data schema, and optimized data pipeline.
+- Achieved end-to-end processing of 1,500 documents (up to 20 pages each) per hour, exceeding client expectations.
+- Led weekly meetings with the team, managed team workload, and led presentations to professors and researchers.
 
 ### **Student Developer**  
 **Purdue University** | *January 2024 – May 2024*  
-- Built a full-stack web application for STEM students dating using the Agile SCRUM framework.  
-- Implemented authentication features, a matching algorithm, and premium user functionality.  
-- Conducted testing and deployed the application for a pilot run among Purdue students.  
+- Developed a full stack web application tailored for STEM students dating using Agile SCRUM framework. 
+- Designed and implemented database schemas and CRUD operations for user photos and resumes.  
+- Implemented 2FA authentication feature, user matching algorithm, user profile customization feature, premium
+ user visibility enhancement features, and completed documentation.
+- Conducted manual and user acceptance testing; deployed app to selected Purdue students for pilot run.
 
 ### **Undergraduate Teaching Assistant**  
 **Purdue University** | *January 2024 – Present*  
-- Conducted live coding sessions and graded assignments for Programming in C and Systems Programming courses.  
-- Resolved student inquiries and proctored exams.  
+- Conducted lab sessions for Programming in C and Systems Programming to for 100+ students through live coding
+ demonstrations in collaboration with professors and graduate teaching assistants.
+- Graded coding standards, proctored exams, monitored forums, and resolved student inquiries.
 
 ### **Cloud Security Engineer Intern / Team Lead**  
 **ShinwooTNS** | *October 2022 – March 2023*  
-- Administered Cato SASE for over 5,000 global users and evaluated competing cloud security solutions.  
-- Led a team of interns, ensuring timely delivery of tasks and solutions.  
+- Administered Cato SASE (Secure Access Service Edge) for a global user base of 5,000+.
+- Performed technical analysis to evaluate competing cloud security solution vendors and documented results.
+- Assisted in PoC, deployed solution on-site and in Cloud, tested compatibility with customer infrastructure.
+- Led team of 3–5 interns, assigned tasks, conducted daily progress meetings, and ensured deliverables.
 
 ---
 
@@ -108,7 +117,7 @@
 
 - 1st Place, HackRPI Fall 2020 - Google Cloud COVID-19 Challenge  
 - 2nd Place, Purdue Hello World Hackathon 2020  
-
+- Dean's list in every semester until now
 ---
 
 ## 📬 Contact  
