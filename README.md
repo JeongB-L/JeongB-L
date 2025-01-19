@@ -46,7 +46,15 @@
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
-fill out
+---
+
+## 📜 About Me
+- 🎓 **Education**: Computer Science @ Purdue University (Class of 2026)
+- 🌟 **Interests**: Backend Development, Data Engineering, Machine Learning
+- 🌐 [LinkedIn](https://www.linkedin.com/in/jeongbinlee/) | [GitHub](https://github.com/JeongB-L)
+
+---
+
 
 
 <h3>Where to find me</h3>
