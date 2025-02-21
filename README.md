@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Jeongbin Lee, a developer, a computer science student from <b>Purdue University, West Lafayette</b> (class of 2024 ➔ class of 2026) </p>
-<p>If you would like to see my professional career, please visit my <a href="https://www.linkedin.com/in/jeongbinlee" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> (it shows what I worked with other companies!)</p>
+<p>If you would like to see my professional career, please visit my <a href="https://www.linkedin.com/in/jeongbinlee" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> (it shows what I worked on with other companies!)</p>
 <h3>Things I worked with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
