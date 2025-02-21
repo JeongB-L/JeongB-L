@@ -61,7 +61,7 @@
 
 ### **Turfgrass Pathology PDMR Chatbot**
 *No link available due to NDA*
-- As part of Purdue Data Mine Corporate program, I led development of Python console application to extract, clean, sort data from Turfgrass Pathology research papers to support AI chatbot development., working with MathWorks and William H. Daniel Turfgrass Research and Diagnostic Center.
+- As part of Purdue Data Mine Corporate program, I led development of Python console application to extract, clean, sort data (building ETL data pipeline) from Turfgrass Pathology research papers to support AI chatbot development, working with MathWorks and William H. Daniel Turfgrass Research and Diagnostic Center.
 
 ### **BoilerDate**  
 *https://github.com/youngjun-yoo16/BoilerDate*  
@@ -90,7 +90,7 @@
 
 - 1st Place, HackRPI Fall 2020 - Google Cloud COVID-19 Challenge  
 - 2nd Place, Purdue Hello World Hackathon 2020  
-- Dean's list in every semester until now
+- Dean's list in every semester until now!!
 ---
 
 ## 📬 Contact  
