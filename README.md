@@ -81,7 +81,7 @@
 ### **Algorithm implementations and more!**
 *https://github.com/JeongB-L/cs251work*
 
-### **Shell implementation, Compiler for SimpleC, and more!**
+### **Compiler for SimpleC, Assembly x86-64 hashtable, and more!**
 *https://github.com/JeongB-L/cs250_works*
 
 ---
