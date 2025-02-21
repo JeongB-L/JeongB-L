@@ -78,11 +78,14 @@
 ### **Stream Sniper**
 *https://devpost.com/software/stream-sniper*
 
-### **Algorithm implementations and more!**
+### **Algorithm implementations and more! (private repo; dm me)**
 *https://github.com/JeongB-L/cs251work*
 
-### **Compiler for SimpleC, Assembly x86-64 hashtable, and more!**
+### **Compiler for SimpleC, Assembly x86-64 hashtable, and more! (private repo; dm me)**
 *https://github.com/JeongB-L/cs250_works*
+
+### **Recreated Shell, recreated Web Server, and more low level stuff! (private repo; dm me)**
+*https://github.com/JeongB-L/cs252work*
 
 ---
 
