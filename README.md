@@ -63,19 +63,19 @@
 *No link available due to NDA*
 - As part of Purdue Data Mine Corporate program, I led development of Python console application to extract, clean, sort data (building ETL data pipeline) from Turfgrass Pathology research papers to support AI chatbot development, working with MathWorks and William H. Daniel Turfgrass Research and Diagnostic Center.
 
-### **BoilerDate**  
+### **BoilerDate** 
 *https://github.com/youngjun-yoo16/BoilerDate*  
 
-### **ShareCare**  
+### **ShareCare** 
 *https://github.com/ananya-singhh/project5*  
 
-### **MaskMandator**
+### **MaskMandator** (HackRPI 1st Place)
 *https://devpost.com/software/mask-mandator*
 
-### **Syllabus Stripper**
+### **Syllabus Stripper** (Purdue Hello World 2nd Place)
 *https://devpost.com/software/syllabus-stripper*
 
-### **Stream Sniper**
+### **Stream Sniper** (BoilerMake XII submission)
 *https://devpost.com/software/stream-sniper*
 
 ### **Algorithm implementations and more! (private repo; dm me)**
