@@ -54,8 +54,8 @@
 
 ### **Purdue University**  
 *Bachelor of Science in Computer Science* | *Expected May 2026*  
-- **GPA**: 3.78/4.0  
-- **Relevant Coursework**: Software Engineering, Object-Oriented Programming, Data Structures and Algorithms, Information Systems, Analysis of Algorithms, Computer Systems, Computer Architecture, Operating Systems, Computer Networks  
+- **GPA**: 3.82/4.0  
+- **Relevant Coursework**: Software Engineering, Object-Oriented Programming, Data Structures and Algorithms, Information Systems (Database), Analysis of Algorithms, Computer Systems, Computer Architecture, Operating Systems, Computer Networks, and more!
 
 ## 🚀 Projects  
 
