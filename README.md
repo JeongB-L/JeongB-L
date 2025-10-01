@@ -59,8 +59,8 @@
 
 ## 🚀 Projects  
 
-### **VibeDB** 
-*[https://github.com/youngjun-yoo16/BoilerDate](https://github.com/TrickWithATwist/VibeDB)*  
+### **VibeDB** (MHacks 2025 submission)
+*https://github.com/TrickWithATwist/VibeDB*  
 
 ### **Turfgrass Pathology PDMR Chatbot**
 *No link available due to NDA*
@@ -93,7 +93,7 @@
 ---
 
 ## 🏆 Achievements  
-
+- Recommendation letter from Jay Shah, a CEO of Neurava
 - 1st Place, HackRPI Fall 2020 - Google Cloud COVID-19 Challenge  
 - 2nd Place, Purdue Hello World Hackathon 2020  
 - Dean's list in every semester until now!!
