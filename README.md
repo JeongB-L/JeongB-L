@@ -55,12 +55,12 @@
 ### **Purdue University**  
 *Bachelor of Science in Computer Science* | *Expected May 2026*  
 - **GPA**: 3.82/4.0  
-- **Relevant Coursework**: Software Engineering, Object-Oriented Programming, Data Structures and Algorithms, Information Systems (Database), Analysis of Algorithms, Computer Systems, Computer Architecture, Operating Systems, Computer Networks, and more!
+- **Relevant Coursework**: Software Engineering, Object-Oriented Programming, Data Structures and Algorithms, Information Systems (Database), Analysis of Algorithms, Computer Systems, Computer Architecture, Operating Systems, Computer Networks, Senior Software Engineering Project, Software Testing, Linear Algebra, and more!
 
 ## 🚀 Projects  
 
 ### **VibeDB** (MHacks 2025 submission)
-*https://github.com/TrickWithATwist/VibeDB*  
+*https://devpost.com/software/vibedb?ref_content=my-projects-tab&ref_feature=my_projects*  
 
 ### **Turfgrass Pathology PDMR Chatbot**
 *No link available due to NDA*
