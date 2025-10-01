@@ -59,6 +59,9 @@
 
 ## 🚀 Projects  
 
+### **VibeDB** 
+*[https://github.com/youngjun-yoo16/BoilerDate](https://github.com/TrickWithATwist/VibeDB)*  
+
 ### **Turfgrass Pathology PDMR Chatbot**
 *No link available due to NDA*
 - As part of Purdue Data Mine Corporate program, I led development of Python console application to extract, clean, sort data (building ETL data pipeline) from Turfgrass Pathology research papers to support AI chatbot development, working with MathWorks and William H. Daniel Turfgrass Research and Diagnostic Center.
