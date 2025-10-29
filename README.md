@@ -53,42 +53,55 @@
 ## 🎓 Education  
 
 ### **Purdue University**  
-*Bachelor of Science in Computer Science* | *Expected May 2026*  
+*Bachelor of Science in Computer Science* | *Expected May/Dec 2026*  
 - **GPA**: 3.82/4.0  
 - **Relevant Coursework**: Software Engineering, Object-Oriented Programming, Data Structures and Algorithms, Information Systems (Database), Analysis of Algorithms, Computer Systems, Computer Architecture, Operating Systems, Computer Networks, Senior Software Engineering Project, Software Testing, Linear Algebra, and more!
 
 ## 🚀 Projects  
 
+### **Random Test Scheduler**
+*https://github.com/cs408-fall-2025/cs408-lab1-lab-1-group-23*
+- C, Python, Bash
+  
 ### **VibeDB** (MHacks 2025 submission)
 *https://devpost.com/software/vibedb?ref_content=my-projects-tab&ref_feature=my_projects*  
+- FastAPI, Angular, TypeScript, Python, PostgreSQL, Supabase
 
-### **Turfgrass Pathology PDMR Chatbot**
+### **Turfgrass Pathology PDMR Chatbot** (Team Lead)
 *No link available due to NDA*
 - As part of Purdue Data Mine Corporate program, I led development of Python console application to extract, clean, sort data (building ETL data pipeline) from Turfgrass Pathology research papers to support AI chatbot development, working with MathWorks and William H. Daniel Turfgrass Research and Diagnostic Center.
+- Python, SQLite
 
 ### **BoilerDate** 
 *https://github.com/youngjun-yoo16/BoilerDate*  
+- React, JavaScript, MongoDB, Node.js, Express.js, HTML/CSS
 
 ### **ShareCare** 
 *https://github.com/ananya-singhh/project5*  
+- Java, Java GUI
 
 ### **MaskMandator** (HackRPI 1st Place)
 *https://devpost.com/software/mask-mandator*
+- Python, AutoML, IBM Cloudant Studio, HTML/CSS/JS
 
 ### **Syllabus Stripper** (Purdue Hello World 2nd Place)
 *https://devpost.com/software/syllabus-stripper*
+- Python, HTML/CSS/JS
 
 ### **Stream Sniper** (BoilerMake XII submission)
 *https://devpost.com/software/stream-sniper*
+- Python, HTML/CSS/JS
 
 ### **Algorithm implementations and more! (private repo; dm me)**
 *https://github.com/JeongB-L/cs251work*
 
 ### **Compiler for SimpleC, Assembly x86-64 hashtable, and more! (private repo; dm me)**
 *https://github.com/JeongB-L/cs250_works*
+- C, C++, Bash, Assembly x86-64
 
-### **Recreated Shell, recreated Web Server, and more low level stuff! (private repo; dm me)**
+### **Recreated Shell, Scalable Web Server for benchmarking, and more low level stuff! (private repo; dm me)**
 *https://github.com/JeongB-L/cs252work*
+- C, C++, Bash
 
 ---
 
@@ -97,6 +110,7 @@
 - 1st Place, HackRPI Fall 2020 - Google Cloud COVID-19 Challenge  
 - 2nd Place, Purdue Hello World Hackathon 2020  
 - Dean's list in every semester until now!!
+- Recommendation letter from CEO of Neurava
 ---
 
 ## 📬 Contact  
