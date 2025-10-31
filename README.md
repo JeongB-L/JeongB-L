@@ -110,7 +110,6 @@
 - 1st Place, HackRPI Fall 2020 - Google Cloud COVID-19 Challenge  
 - 2nd Place, Purdue Hello World Hackathon 2020  
 - Dean's list in every semester until now!!
-- Recommendation letter from CEO of Neurava
 ---
 
 ## 📬 Contact  
