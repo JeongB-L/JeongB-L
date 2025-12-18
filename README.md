@@ -59,8 +59,13 @@
 
 ## 🚀 Projects  
 
+### **Fuzzer**
+*https://github.com/JeongB-L/Fuzzer*
+- C, Python, Bash
+- BlackBox, GreyBox, AFL
+
 ### **Random Test Scheduler**
-*https://github.com/cs408-fall-2025/cs408-lab1-lab-1-group-23*
+*[https://github.com/cs408-fall-2025/cs408-lab1-lab-1-group-23](https://github.com/JeongB-L/Test-Scheduler)*
 - C, Python, Bash
   
 ### **VibeDB** (MHacks 2025 submission)
