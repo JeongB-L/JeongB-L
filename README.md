@@ -2,7 +2,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
   <h1>Hey! Nice to see you.</h1>
   <p>
-    <b>Computer Science Student @ Purdue University</b><br>
+    <b>Jeongbin Lee; CS @ Purdue University</b><br>
     <i>Software Engineering | Full Stack Development | Distributed Systems</i>
   </p>
   <p>
