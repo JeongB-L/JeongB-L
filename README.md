@@ -1,128 +1,147 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<div align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
+  <h1>Hey! Nice to see you.</h1>
+  <p>
+    <b>Computer Science Student @ Purdue University</b><br>
+    <i>Software Engineering | Full Stack Development | Distributed Systems</i>
+  </p>
+  <p>
+    I am a developer passionate about building scalable web applications, optimizing low-level systems, and solving complex engineering problems.
+  </p>
+  
+  <a href="https://www.linkedin.com/in/jeongbinlee" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jblee1152@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+</div>
 
+---
 
-<p>Welcome to my page! </br> I'm Jeongbin Lee, a developer, a computer science student from <b>Purdue University, West Lafayette</b> (class of 2024 ➔ class of 2026 -> ?) </p>
-<p>If you would like to see my professional career, please visit my <a href="https://www.linkedin.com/in/jeongbinlee" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> (it shows what I worked on with other companies!)</p>
-<h3>Things I worked with</h3>
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+### 🛠️ Technical Arsenal
+
+**Languages**<br>
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
 <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
-<img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
 <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="SQL" src="https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+<img alt="Assembly" src="https://img.shields.io/badge/-Assembly_(x86--64)-525252?style=flat-square&logo=assemblyscript&logoColor=white" />
+<img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+
+**Frontend & Mobile**<br>
+<img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img alt="Assembly (x86-64)" src="https://img.shields.io/badge/-Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white" />
-<img alt="T-SQL" src="https://img.shields.io/badge/-T--SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-<img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+
+**Backend & Database**<br>
+<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img alt=".NET Core" src="https://img.shields.io/badge/-.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 <img alt="Neo4j" src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
-<img alt=".NET Core" src="https://img.shields.io/badge/-.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white" />
-<img alt="NUnit" src="https://img.shields.io/badge/-NUnit-3ACF41?style=flat-square&logo=nunit&logoColor=white" />
-<img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
 <img alt="DuckDB" src="https://img.shields.io/badge/-DuckDB-000000?style=flat-square&logo=duckdb&logoColor=white" />
-<img alt="Bash Scripting" src="https://img.shields.io/badge/-Bash_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-<img alt="Visual Studio" src="https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
-<img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img alt="Tesseract OCR" src="https://img.shields.io/badge/-Tesseract_OCR-5C3EE8?style=flat-square&logo=tesseract&logoColor=white" />
-<img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+
+**DevOps, Cloud & Tools**<br>
 <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img alt="Google AutoML" src="https://img.shields.io/badge/-Google_AutoML-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-<img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img alt="Linux Ubuntu" src="https://img.shields.io/badge/-Linux_Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+<img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img alt="Cursor" src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
-<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
-<img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
-<img alt="CLion" src="https://img.shields.io/badge/-CLion-000000?style=flat-square&logo=clion&logoColor=white" />
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-</p>
-
+<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="Linux" src="https://img.shields.io/badge/-Linux_Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+<img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 
 ---
 
 ## 🎓 Education  
 
-### **Purdue University**  
-*Bachelor of Science in Computer Science* | *Expected August 2026*  
-- **GPA**: 3.8/4.0  
-- **Relevant Coursework**: Software Engineering, Object-Oriented Programming, Data Structures and Algorithms, Information Systems (Database), Analysis of Algorithms, Computer Systems, Computer Architecture, Operating Systems, Computer Networks, Senior Software Engineering Project, Software Testing, Linear Algebra, CERIAS Secutiy Seminar, Data Mine
+### **Purdue University** **B.S. in Computer Science** | *Expected August 2026*
+**GPA**: 3.8/4.0  
+**Coursework**: Software Engineering, OOP, Data Structures & Algorithms, Database Systems, Computer Architecture, OS, Computer Networks, Software Testing, CERIAS Security Seminar.
+
+---
 
 ## 🚀 Projects  
 
-### **VibeChec**
-*https://github.com/JeongB-L/VibeCheck*
-- TypeScript, Angular, NodeJS, PostgreSQL
-- OpenAI API, Supabase, Google Places, Google Maps, Google Auth
+### **[VibeCheck](https://github.com/JeongB-L/VibeCheck)** (Team Lead)
+> *Distributed outing planner ensuring group fairness via preference negotiation.*
+- **Tech**: Angular, TypeScript, Node.js, PostgreSQL (Supabase), OpenAI API
+- **Impact**: Reduced OpenAI API calls by 50% via prompt engineering; designed custom version control for 100+ profile revisions.
 
-### **Fuzzer**
-*https://github.com/JeongB-L/Fuzzer*
-- C, Python, Bash
-- BlackBox, GreyBox, AFL
+### **[MaskMandator](https://devpost.com/software/mask-mandator)** 🏆
+> *1st Place @ HackRPI Fall 2020 (Google Cloud COVID-19 Challenge)*
+- **Tech**: Python, Google AutoML, HTML/CSS
+- **Impact**: Achieved **99.37%** mask detection accuracy; presented to 50+ Google engineers.
 
-### **Random Test Scheduler**
-*[https://github.com/cs408-fall-2025/cs408-lab1-lab-1-group-23](https://github.com/JeongB-L/Test-Scheduler)*
-- C, Python, Bash
-  
-### **VibeDB** (MHacks 2025 submission)
-*https://devpost.com/software/vibedb?ref_content=my-projects-tab&ref_feature=my_projects*  
-- FastAPI, Angular, TypeScript, Python, PostgreSQL, Supabase
+### **[Turfgrass Pathology Parser](https://datamine.purdue.edu/)** (Team Lead)
+> *ETL Pipeline for Purdue Data Mine & MathWorks*
+- **Tech**: Python, OpenCV, Tesseract OCR, SQLite
+- **Impact**: Processed **1,500 research papers/hour**; built automated pipeline for AI chatbot training.
 
-### **Turfgrass Pathology PDMR Chatbot** (Team Lead)
-*No link available due to NDA*
-- As part of Purdue Data Mine Corporate program, I led development of Python console application to extract, clean, sort data (building ETL data pipeline) from Turfgrass Pathology research papers to support AI chatbot development, working with MathWorks and William H. Daniel Turfgrass Research and Diagnostic Center.
-- Python, SQLite
+### **[SimpleC Compiler](https://github.com/JeongB-L/cs250_works)**
+> *Custom compiler implementation for a C subset*
+- **Tech**: C, C++, x86-64 Assembly, Lex, Yacc
+- **Impact**: Achieved **30% compilation performance improvement** via algorithmic optimizations.
 
-### **BoilerDate** 
-*https://github.com/youngjun-yoo16/BoilerDate*  
-- React, JavaScript, MongoDB, Node.js, Express.js, HTML/CSS
+### **[Recreated Shell](https://github.com/JeongB-L/cs252work)**
+> *Custom Shell Interpreter (Bash/Zsh inspired)*
+- **Tech**: C, C++, Linux API
+- **Feat**: Implemented process forking, piping, wildcard expansion, and job control.
 
-### **ShareCare** 
-*https://github.com/ananya-singhh/project5*  
-- Java, Java GUI
+### **[VibeDB](https://devpost.com/software/vibedb)**
+> *FastAPI data pipeline tool (MHacks 2025)*
+- **Tech**: FastAPI, Python, PostgreSQL, Regex
+- **Feat**: Converts JSON schema to executable SQL in <0.5s.
 
-### **MaskMandator** (HackRPI 1st Place)
-*https://devpost.com/software/mask-mandator*
-- Python, AutoML, IBM Cloudant Studio, HTML/CSS/JS
+### **[Fuzzer](https://github.com/JeongB-L/Fuzzer)**
+> *Security Testing Tool*
+- **Tech**: C, Python, Bash, AFL
+- **Feat**: Implemented BlackBox and GreyBox fuzzing techniques for software vulnerability detection.
 
-### **Syllabus Stripper** (Purdue Hello World 2nd Place)
-*https://devpost.com/software/syllabus-stripper*
-- Python, HTML/CSS/JS
+### **[BoilerDate](https://github.com/youngjun-yoo16/BoilerDate)**
+> *Dating application for STEM students*
+- **Tech**: MongoDB, Express.js, React, Node.js (MERN)
+- **Feat**: Built using Agile/Scrum methodologies; implemented user matching algorithms.
 
-### **Stream Sniper** (BoilerMake XII submission)
-*https://devpost.com/software/stream-sniper*
-- Python, HTML/CSS/JS
+### **[Syllabus Stripper](https://devpost.com/software/syllabus-stripper)** 🏆
+> *2nd Place @ Purdue Hello World Hackathon*
+- **Tech**: Python, OCR, HTML/CSS
+- **Feat**: Extracts critical dates from syllabus PDFs to automate calendar scheduling.
 
-### **Algorithm implementations and more! (private repo; dm me)**
-*https://github.com/JeongB-L/cs251work*
+### **[Stream Sniper](https://devpost.com/software/stream-sniper)**
+> *Twitch Stream Recommendation Engine (BoilerMake XII)*
+- **Tech**: Python, Flask, Twitch API
+- **Feat**: Bridges community gaps by recommending live streamers based on user preferences.
 
-### **Compiler for SimpleC, Assembly x86-64 hashtable, and more! (private repo; dm me)**
-*https://github.com/JeongB-L/cs250_works*
-- C, C++, Bash, Assembly x86-64
+### **[ShareCare](https://github.com/ananya-singhh/project5)**
+> *Social Platform with Real-Time Updates*
+- **Tech**: Java, JUnit, Java GUI
+- **Feat**: Implemented comprehensive unit testing to ensure platform stability.
 
-### **Recreated Shell, Scalable Web Server for benchmarking, and more low level stuff! (private repo; dm me)**
-*https://github.com/JeongB-L/cs252work*
-- C, C++, Bash
+> *Note: Some academic projects (Compilers, OS, Shell) are in private repositories to comply with academic integrity. Source code available upon request.*
 
 ---
 
-## 🏆 Achievements  
-- Recommendation letter from Jay Shah, a CEO of Neurava
-- 1st Place, HackRPI Fall 2020 - Google Cloud COVID-19 Challenge  
-- 2nd Place, Purdue Hello World Hackathon 2020  
-- Dean's list in every semester until now!!
+## 🏆 Honors & Achievements  
+- **Dean's List:** Awarded every semester (Academic Excellence).
+- **1st Place:** HackRPI Fall 2020.
+- **2nd Place:** Purdue Hello World 2020.
+- **Top 15:** Wolfram Alpha Challenge.
+
 ---
 
-## 📬 Contact  
-
-<p><a href="https://github.com/JeongB-L" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jeongbinlee" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:jblee1152@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a></p>
-
+<div align="center">
+  <p><i>Let's connect!</i></p>
+  <a href="https://github.com/JeongB-L"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/jeongbinlee"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="mailto:jblee1152@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+</div>
