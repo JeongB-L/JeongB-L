@@ -53,11 +53,16 @@
 ## 🎓 Education  
 
 ### **Purdue University**  
-*Bachelor of Science in Computer Science* | *Expected May/Dec 2026*  
-- **GPA**: 3.82/4.0  
-- **Relevant Coursework**: Software Engineering, Object-Oriented Programming, Data Structures and Algorithms, Information Systems (Database), Analysis of Algorithms, Computer Systems, Computer Architecture, Operating Systems, Computer Networks, Senior Software Engineering Project, Software Testing, Linear Algebra, and more!
+*Bachelor of Science in Computer Science* | *Expected August 2026*  
+- **GPA**: 3.8/4.0  
+- **Relevant Coursework**: Software Engineering, Object-Oriented Programming, Data Structures and Algorithms, Information Systems (Database), Analysis of Algorithms, Computer Systems, Computer Architecture, Operating Systems, Computer Networks, Senior Software Engineering Project, Software Testing, Linear Algebra, CERIAS Secutiy Seminar, Data Mine
 
 ## 🚀 Projects  
+
+### **VibeChec**
+*https://github.com/JeongB-L/VibeCheck*
+- TypeScript, Angular, NodeJS, PostgreSQL
+- OpenAI API, Supabase, Google Places, Google Maps, Google Auth
 
 ### **Fuzzer**
 *https://github.com/JeongB-L/Fuzzer*
